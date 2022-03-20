@@ -1,6 +1,7 @@
 /*header*/
 
 .header-item{
+    cursor: pointer;
 
     border-radius: 5px;
     padding: 5px;
@@ -32,8 +33,12 @@ footer i{
 
 main span{
     position: absolute;
-    bottom: 3px;
+    bottom: 0px;
     left: 0;
     background-color: grey;
     padding: 2px;
+}
+
+.fa-share-from-square{
+    color: green;
 }
