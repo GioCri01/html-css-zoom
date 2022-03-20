@@ -1,0 +1,39 @@
+/*header*/
+
+.header-item{
+
+    border-radius: 5px;
+    padding: 5px;
+    background-color: grey;
+    margin: 10px;
+}
+
+ul{
+    list-style: none;
+    
+}
+
+li{
+   padding: 5px 15px;
+   
+    
+    
+}
+
+p{
+    font-size: 15px;
+    padding-top: 5px;
+}
+
+footer i{
+    font-size: 30px;
+}
+
+
+main span{
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    background-color: grey;
+    padding: 2px;
+}
